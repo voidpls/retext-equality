@@ -1,4 +1,13 @@
 - type: basic
+  note: N/A
+  considerate:
+    - plus sized
+    - big-boned
+  inconsiderate:
+    - fat
+    - overweight
+    - fatass
+- type: basic
   note: Avoid using the term `master`; these suggestions are for the computer term, but there are better alternatives for other cases too
   considerate:
     - primary
