@@ -1,5 +1,22 @@
 [
   {
+    "id": "custom",
+    "type": "basic",
+    "categories": [
+      "a"
+    ],
+    "considerate": {
+      "plus sized": "a",
+      "big-boned": "a"
+    },
+    "inconsiderate": {
+      "fat": "a",
+      "fatass": "a",
+	  "overweight": "a"
+    },
+    "note": "N/A"
+  },
+  {
     "id": "learning-disabled",
     "type": "basic",
     "categories": [
