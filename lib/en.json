@@ -6,13 +6,57 @@
       "a"
     ],
     "considerate": {
+      "African American": "a",
+    },
+    "inconsiderate": {
+	    "black": "a"
+    },
+    "note": "N/A"
+  },
+  {
+    "id": "custom",
+    "type": "basic",
+    "categories": [
+      "a"
+    ],
+    "considerate": {
+      "powerful woman": "a",
+    },
+    "inconsiderate": {
+	    "karen": "a"
+    },
+    "note": "N/A"
+  },
+  {
+    "id": "custom",
+    "type": "basic",
+    "categories": [
+      "a"
+    ],
+    "considerate": {
+      "you all": "a",
+      "you people": "a"
+    },
+    "inconsiderate": {
+      "y'all": "a",
+      "yall": "a"
+    },
+    "note": "N/A"
+  },
+  {
+    "id": "custom",
+    "type": "basic",
+    "categories": [
+      "a"
+    ],
+    "considerate": {
       "plus sized": "a",
       "big-boned": "a"
     },
     "inconsiderate": {
       "fat": "a",
       "fatass": "a",
-	  "overweight": "a"
+	    "overweight": "a"
     },
     "note": "N/A"
   },
