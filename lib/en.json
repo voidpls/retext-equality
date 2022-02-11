@@ -1,6 +1,6 @@
 [
   {
-    "id": "custom",
+    "id": "custom-black",
     "type": "basic",
     "categories": [
       "a"
@@ -14,7 +14,7 @@
     "note": "N/A"
   },
   {
-    "id": "custom",
+    "id": "custom-karen",
     "type": "basic",
     "categories": [
       "a"
@@ -28,7 +28,7 @@
     "note": "N/A"
   },
   {
-    "id": "custom",
+    "id": "custom-yall",
     "type": "basic",
     "categories": [
       "a"
@@ -44,7 +44,7 @@
     "note": "N/A"
   },
   {
-    "id": "custom",
+    "id": "custom-fat",
     "type": "basic",
     "categories": [
       "a"
