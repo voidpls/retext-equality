@@ -1,4 +1,48 @@
 [
+  {
+     "id":"custom-hoe",
+     "type":"basic",
+     "categories":[
+        "a"
+     ],
+     "considerate":{
+        "attractive person I respect":"a"
+     },
+     "inconsiderate":{
+        "hoe":"a",
+        "whore":"a",
+        "slut":""
+     },
+     "note":"N/A"
+  },
+  {
+     "id":"custom-sexworker",
+     "type":"basic",
+     "categories":[
+        "a"
+     ],
+     "considerate":{
+        "sex worker":"a"
+     },
+     "inconsiderate":{
+        "prostitute":"a"
+     },
+     "note":"N/A"
+  },
+  {
+     "id":"custom-simp",
+     "type":"basic",
+     "categories":[
+        "a"
+     ],
+     "considerate":{
+        "feminist respecter":"a"
+     },
+     "inconsiderate":{
+        "simp":"a"
+     },
+     "note":"N/A"
+  },
    {
       "id":"custom-yall",
       "type":"basic",
@@ -56,7 +100,8 @@
       "inconsiderate":{
          "fat":"a",
          "fatass":"a",
-         "overweight":"a"
+         "overweight":"a",
+         "obese":"a"
       },
       "note":"N/A"
    },
@@ -195,8 +240,7 @@
          "moron":"a",
          "moronic":"a",
          "nuts":"a",
-         "mental case":"a",
-         "mental":"a"
+         "mental case":"a"
       },
       "note":"Describe the behavior or illness without derogatory words. (source: https://ncdj.org/style-guide/)"
    },
@@ -4154,10 +4198,9 @@
          "male"
       ],
       "considerate":{
-         "titan":"a"
+         "superperson":"a"
       },
       "inconsiderate":{
-         "superwoman":"female",
          "superman":"male"
       }
    },
