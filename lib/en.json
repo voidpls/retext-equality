@@ -389,19 +389,6 @@
       "note":"Refer to the specific disability."
    },
    {
-      "id":"mongoloid",
-      "type":"basic",
-      "categories":[
-         "a"
-      ],
-      "considerate":{
-         "person with Down Syndrome":"a"
-      },
-      "inconsiderate":{
-         "mongoloid":"a"
-      }
-   },
-   {
       "id":"stroke-victim",
       "type":"basic",
       "categories":[
@@ -524,27 +511,7 @@
          "hold back":"a"
       },
       "inconsiderate":{
-         "retard":"a",
-         "retarded":"a",
          "short bus":"a"
-      }
-   },
-   {
-      "id":"retards",
-      "type":"basic",
-      "categories":[
-         "a"
-      ],
-      "considerate":{
-         "sillies":"a",
-         "dullards":"a",
-         "people with developmental disabilities":"a",
-         "people with Down’s Syndrome":"a",
-         "delays":"a",
-         "holds back":"a"
-      },
-      "inconsiderate":{
-         "retards":"a"
       }
    },
    {
@@ -1601,7 +1568,6 @@
          "individual":"a"
       },
       "inconsiderate":{
-         "woman":"female",
          "gal":"female",
          "lady":"female",
          "babe":"female",
@@ -1613,6 +1579,33 @@
          "dude":"male",
          "bro":"male",
          "gentleman":"male"
+      }
+   },
+   {
+      "id":"woman",
+      "type":"basic",
+      "categories":[
+         "female"
+      ],
+      "considerate":{
+         "womxn":"a"
+      },
+      "inconsiderate":{
+         "woman":"female",
+         "women":"female"
+      }
+   },
+   {
+      "id":"female",
+      "type":"basic",
+      "categories":[
+         "female"
+      ],
+      "considerate":{
+         "femxle":"a"
+      },
+      "inconsiderate":{
+         "female":"female"
       }
    },
    {
@@ -3582,8 +3575,6 @@
          "ruler":"a"
       },
       "inconsiderate":{
-         "empress":"female",
-         "queen":"female",
          "emperor":"male",
          "king":"male"
       }
@@ -3599,8 +3590,6 @@
          "rulers":"a"
       },
       "inconsiderate":{
-         "empresses":"female",
-         "queens":"female",
          "emperors":"male",
          "kings":"male"
       }
@@ -3716,7 +3705,6 @@
          "maturity":"a"
       },
       "inconsiderate":{
-         "womanhood":"female",
          "masculinity":"male",
          "manhood":"male"
       }
@@ -3732,7 +3720,6 @@
          "humanity":"a"
       },
       "inconsiderate":{
-         "femininity":"female",
          "manliness":"male"
       }
    },
@@ -3938,7 +3925,6 @@
          "heir":"a"
       },
       "inconsiderate":{
-         "princess":"female",
          "prince":"male"
       }
    },
@@ -3953,38 +3939,7 @@
          "heirs":"a"
       },
       "inconsiderate":{
-         "princesses":"female",
          "princes":"male"
-      }
-   },
-   {
-      "id":"sandman-sandwoman",
-      "type":"or",
-      "categories":[
-         "female",
-         "male"
-      ],
-      "considerate":{
-         "fairy":"a"
-      },
-      "inconsiderate":{
-         "sandwoman":"female",
-         "sandman":"male"
-      }
-   },
-   {
-      "id":"sandmen-sandwomen",
-      "type":"or",
-      "categories":[
-         "female",
-         "male"
-      ],
-      "considerate":{
-         "fairies":"a"
-      },
-      "inconsiderate":{
-         "sandwomen":"female",
-         "sandmen":"male"
       }
    },
    {
@@ -4426,30 +4381,16 @@
       }
    },
    {
-      "id":"mrs-",
-      "type":"basic",
-      "categories":[
-         "female"
-      ],
-      "considerate":{
-         "ms.":"a"
-      },
-      "inconsiderate":{
-         "miss.":"female",
-         "mrs.":"female"
-      }
-   },
-   {
       "id":"manmade",
       "type":"basic",
       "categories":[
          "male"
       ],
       "considerate":{
+         "humanmade":"a",
          "manufactured":"a",
          "artificial":"a",
          "synthetic":"a",
-         "machine-made":"a",
          "constructed":"a"
       },
       "inconsiderate":{
@@ -4463,7 +4404,7 @@
          "male"
       ],
       "considerate":{
-         "dynamo":"a"
+         "human of action":"a"
       },
       "inconsiderate":{
          "man of action":"male"
@@ -5228,7 +5169,7 @@
          "a"
       ],
       "considerate":{
-         "a faithful dog":"a"
+         "humans best friend":"a"
       },
       "inconsiderate":{
          "mans best friend":"a"
@@ -5693,11 +5634,7 @@
          "gay":"a"
       },
       "inconsiderate":{
-         "fag":"a",
-         "faggot":"a",
-         "dyke":"a",
-         "homo":"a",
-         "sodomite":"a"
+         "homo":"a"
       },
       "note":"Derogatory terms for LGBTQ+ people are offensive (source: https://www.glaad.org/reference/offensive)"
    },
@@ -6305,7 +6242,6 @@
          "Middle Eastern People":"a"
       },
       "inconsiderate":{
-         "sand niggers":"a",
          "towel heads":"a"
       }
    },
