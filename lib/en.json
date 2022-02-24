@@ -1569,16 +1569,38 @@
       },
       "inconsiderate":{
          "gal":"female",
-         "lady":"female",
          "babe":"female",
          "bimbo":"female",
          "chick":"female",
-         "guy":"male",
          "lad":"male",
          "fellow":"male",
-         "dude":"male",
-         "bro":"male",
          "gentleman":"male"
+      }
+   },
+   {
+      "id":"gentleman",
+      "type":"basic",
+      "categories":[
+         "male"
+      ],
+      "considerate":{
+         "gentleperson":"a"
+      },
+      "inconsiderate":{
+         "gentleman":"male"
+      }
+   },
+   {
+      "id":"gentlemen",
+      "type":"basic",
+      "categories":[
+         "male"
+      ],
+      "considerate":{
+         "gentlepeople":"a"
+      },
+      "inconsiderate":{
+         "gentlemen":"male"
       }
    },
    {
@@ -5677,7 +5699,8 @@
          "transgender":"a"
       },
       "inconsiderate":{
-         "tranny":"a"
+         "tranny":"a",
+         "troon":"a"
       },
       "note":"Derogatory terms for LGBTQ+ people are offensive (source: https://www.glaad.org/reference/style)"
    },
