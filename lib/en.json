@@ -1610,7 +1610,8 @@
          "female"
       ],
       "considerate":{
-         "womxn":"a"
+         "womxn":"a",
+         "womyn":"a"
       },
       "inconsiderate":{
          "woman":"female",
