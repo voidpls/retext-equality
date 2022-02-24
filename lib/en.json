@@ -1542,13 +1542,8 @@
          "folks":"a"
       },
       "inconsiderate":{
-         "women":"female",
-         "girls":"female",
          "gals":"female",
          "ladies":"female",
-         "men":"male",
-         "guys":"male",
-         "dudes":"male",
          "gents":"male",
          "gentlemen":"male"
       }
@@ -1625,10 +1620,25 @@
          "female"
       ],
       "considerate":{
-         "femxle":"a"
+         "femxle":"a",
+         "human":"a"
       },
       "inconsiderate":{
          "female":"female"
+      }
+   },
+   {
+      "id":"females",
+      "type":"basic",
+      "categories":[
+         "female"
+      ],
+      "considerate":{
+         "femxles":"a",
+         "humans":"a"
+      },
+      "inconsiderate":{
+         "females":"female"
       }
    },
    {
@@ -3573,17 +3583,28 @@
       }
    },
    {
-      "id":"females-males",
+      "id":"male",
       "type":"or",
       "categories":[
-         "female",
+         "male"
+      ],
+      "considerate":{
+         "human":"a"
+      },
+      "inconsiderate":{
+         "male":"male"
+      }
+   },
+   {
+      "id":"males",
+      "type":"or",
+      "categories":[
          "male"
       ],
       "considerate":{
          "humans":"a"
       },
       "inconsiderate":{
-         "females":"female",
          "males":"male"
       }
    },
