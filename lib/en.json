@@ -1530,7 +1530,7 @@
       "condition":"when referring to a person"
    },
    {
-      "id":"gals-men",
+      "id":"gals",
       "type":"or",
       "categories":[
          "female",
@@ -1549,7 +1549,7 @@
       }
    },
    {
-      "id":"gal-guy",
+      "id":"gal",
       "type":"or",
       "categories":[
          "female",
