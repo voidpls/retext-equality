@@ -81,7 +81,7 @@
     "tinyify": "^3.0.0",
     "unist-builder": "^2.0.0",
     "vfile-sort": "^2.0.0",
-    "xo": "^0.34.0"
+    "xo": "^0.39.1"
   },
   "scripts": {
     "generate": "node script/generate.js",
