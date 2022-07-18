@@ -1,5 +1,23 @@
 [
   {
+     "id":"custom-bark",
+     "type":"basic",
+     "categories":[
+        "a"
+     ],
+     "considerate":{
+        "meow":"a",
+        "mrow":"a",
+        "nya":"a"
+     },
+     "inconsiderate":{
+        "woof":"a",
+        "bark":"a",
+        "arf":"a"
+     },
+     "note":"N/A"
+  },
+  {
      "id":"custom-hoe",
      "type":"basic",
      "categories":[
@@ -11,7 +29,7 @@
      "inconsiderate":{
         "hoe":"a",
         "whore":"a",
-        "slut":""
+        "slut":"a"
      },
      "note":"N/A"
   },
